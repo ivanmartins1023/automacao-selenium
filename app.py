@@ -50,7 +50,7 @@ sleep(1)
 #encontrar e clicar no campo de email
 campo_email=driver.find_element(By.NAME,'email')
 sleep(1)
-#digitar meu email 
+#digitar meu email k
 campo_email.send_keys('martinsivan@kii.com')
 sleep(1)
 #encontrar e clicar no campo de senha 
